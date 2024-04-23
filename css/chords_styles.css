@@ -61,6 +61,7 @@ code {
 .menu__link:hover,
 a {
     transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+    
 }
 
 .navbar--dark,
@@ -960,6 +961,7 @@ ifm-alert-border-left-width: 5px;
     }
     p {
         margin: 0 0 var(--ifm-paragraph-margin-bottom);
+
     }
     blockquote {
         border-left: var(--ifm-blockquote-border-left-width) solid var(--ifm-blockquote-border-color);

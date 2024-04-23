@@ -5,6 +5,10 @@
     width: 100%;
 }
 
+.em-wider {
+  letter-spacing: 0.08rem;
+}
+
 .markdown>h2,
 .markdown>h3,
 .markdown>h4,
@@ -16,6 +20,8 @@
 .markdown li,
 body {
     word-wrap: break-word;
+   
+
 }
 
 body,
@@ -2548,7 +2554,7 @@ h6 {
 }
 
 body:not(.navigation-with-keyboard) :not(input):focus {
-  outline: 0
+  outline: 0;
 }
 
 #__docusaurus-base-url-issue-banner-container,
