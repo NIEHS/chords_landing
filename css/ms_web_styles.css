@@ -7,6 +7,8 @@
 
 .em-wider {
   letter-spacing: 0.08rem;
+  font-family:Open Sans;
+  color: #4c4c4c;
 }
 
 .markdown>h2,
