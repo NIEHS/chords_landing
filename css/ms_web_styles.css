@@ -1000,7 +1000,7 @@ ifm-alert-border-left-width: 5px;
         font-weight: var(--ifm-font-weight-bold);
     }
     a {
-        color: var(--ifm-link-color);
+        color: #020000;
         text-decoration: var(--ifm-link-decoration);
         font-weight: 600;
     }
@@ -1889,6 +1889,8 @@ html[data-theme=dark] {
   display: flex;
   margin-right: 1rem;
   min-width: 0;
+  margin-top: 15px; 
+  margin-bottom: 15px;
 }
 
 .navbar__brand:hover {
@@ -1910,6 +1912,11 @@ html[data-theme=dark] {
   flex: 0 0 auto;
   height: 2rem;
   margin-right: .5rem;
+}
+
+.navbar__logo hi {
+    margin-left: 250px;
+    margin-right: 40;
 }
 
 .navbar__items {
