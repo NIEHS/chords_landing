@@ -1,0 +1,12 @@
+name: chords_landing
+title: chords_landing
+username: noltesz
+account: noltesz
+server: dev.posit.niehs.nih.gov
+hostUrl: https://dev.posit.niehs.nih.gov/__api__
+appId: 366
+bundleId: 1732
+url: https://dev.posit.niehs.nih.gov/content/f4832d2b-22f8-480d-8652-525f69451777/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
